@@ -190,7 +190,7 @@ In case you want to use the Telegram bot you will need to create one on your own
 
 Emmanuel Holguin - e.holguin05@outlook.com
 
-Project Link: [https://github.com/eholguin05/fizzbuzz](https://github.com/javiermendez-coder/fizzbuzz)
+Project Link: [https://github.com/eholguin05/fizzbuzz](https://github.com/eholguin05/fizzbuzz)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
